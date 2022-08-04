@@ -17,3 +17,4 @@ sklearn
 plotly
 seaborn
 statsmodels
+pickle-mixin
